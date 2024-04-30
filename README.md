@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently work with JavaScript / Typescript / ReactJs
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
